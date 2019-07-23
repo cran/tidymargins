@@ -1,0 +1,16 @@
+d82c08b523884d3d92a76cee394f8bbf *DESCRIPTION
+cf3ffd570ea268634097df7093e6f753 *LICENSE
+4cbfdbaffa188b4dcaa46a7be2413e3d *NAMESPACE
+0f5fcfcc6ce0d984f2c0c5505a256608 *NEWS.md
+23fe84f68b458f21d94d3a93e6469e6d *R/margins.R
+2b8d882cead1d7cb9be4b24181dfcf46 *R/spread_each.R
+f7f385987196bb78d8cf268d1ee6d73a *README.md
+51b1377a1c1f79d1a70a07406fc4590a *inst/WORDLIST
+e83b109f5489c1f525358a7fd3b152f2 *inst/examples/ex-spread_each.R
+6129aed22867048878969dd68ae6c5e2 *inst/examples/ex-with_margins.R
+89752c42261a61706da302bb07dab317 *man/figures/README-pressure-1.png
+23bade92478c72d36677d9de135c678a *man/spread_each.Rd
+4644cff5600877eb725e3f4e37b22228 *man/with_margins.Rd
+a039bc0cf0d51fdd857cee3da483af40 *tests/testthat.R
+e9951b0adf555a909c97d64b04718765 *tests/testthat/test-margins.R
+9a56b57bc2458b3c652f93d66c852b52 *tests/testthat/test-spread_each.R
